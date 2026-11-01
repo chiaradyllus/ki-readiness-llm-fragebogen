@@ -1,0 +1,99 @@
+Die theoretische Prüfung der drei vorgeschlagenen Dimensionen zur Erfassung der
+KI-Readiness von Mitarbeitenden auf Basis der ausgewählten wissenschaftlichen Quellen
+zeigt, dass die Bereiche unterschiedlich stark fundiert sind und teilweise umstrukturiert
+werden müssen, um den etablierten Messmodellen zu entsprechen 1-4.
+
+
+1. Bereich 1: Wahrgenommene KI-Kompetenz
+   ●​ Präzise Definition: In den zugrundeliegenden Messmodellen wird dieser Bereich im
+      Wesentlichen über die Konstrukte Ability (Fähigkeit/Erklärbarkeit) 1, 4, Abilities
+      (Fähigkeiten bezüglich des Informationssystems) 5, 6 sowie Perceived Ease of Use
+      (wahrgenommene Leichtigkeit der Nutzung) 7, 8 operationalisiert. Er umfasst das
+      subjektive Verständnis der grundlegenden Funktionsweise einer KI-Anwendung 1, 9,
+      die Fähigkeit zur kognitiven Nachvollziehbarkeit der Ergebnisgenerierung 1, 9 sowie
+      die Kompetenz, die Richtigkeit und Verlässlichkeit der KI-Ergebnisse eigenständig zu
+      beurteilen und das System fehlerfrei zu bedienen 1, 6, 9.
+   ●​ Abgrenzung von verwandten Konstrukten:
+   ●​ Abgrenzung von wahrgenommener Verhaltenskontrolle (Perceived Behavioral
+      Control / Self-Efficacy): KI-Kompetenz bezieht sich spezifisch auf das kognitive
+      Verständnis und die technologische Bedienfähigkeit 1, 9, während die
+      wahrgenommene Verhaltenskontrolle den wahrgenommenen Handlungsspielraum
+      und den Grad der Autonomie beschreibt, eine Entscheidung zur Nutzung frei und
+      eigenständig zu treffen 7, 10, 11.
+   ●​ Abgrenzung von allgemeiner Technologiebereitschaft / Tech-Affinität: Allgemeine
+      Computerkenntnisse oder Persönlichkeitsdispositionen wie Innovativität im
+      Technology Readiness Index (TRI 2.0) messen eine generelle Neigung gegenüber
+      neuen Technologien 12, 13, wohingegen die KI-Kompetenz domänenspezifisch auf
+      das Nachvollziehen und Bewerten konkreter KI-Systeme ausgerichtet ist 1, 9.
+   ●​ Bewertung der Eignung: Hochgradig geeignet. Das Konstrukt ist theoretisch
+      fundiert (u. a. im Vertrauensmodell nach Mayer et al. sowie der Reasoned Action
+      Approach) und empirisch als wesentlicher Einflussfaktor belegt 1, 4, 5, 7, 9.
+
+
+2. Bereich 2: Einstellung und Vertrauen
+   ●​ Präzise Definition: Dieser Bereich vereint zwei eigenständige, aber eng miteinander
+      verknüpfte Konstrukte:
+   ●​ Einstellung (Attitude): Die kognitive und affektive Gesamteinschätzung einer
+      Person, ob der Einsatz einer Technologie im Arbeitsalltag vorteilhaft,
+      gewinnbringend, erfreulich oder wertvoll ist 2, 3, 5, 10.
+   ●​ Vertrauen (Trust): Die Bereitschaft einer Person, sich gegenüber den Handlungen
+      des KI-Systems vulnerabel zu machen (z. B. durch Delegieren von Aufgaben ohne
+      ständige Kontrolle) 4, 14, 15, basierend auf der Erwartung, dass die KI Aufgaben
+      zuverlässig, korrekt und verlässlich ausführt 4, 16. Vertrauen wird theoretisch
+      maßgeblich durch die wahrgenommene Fähigkeit (Ability) und Integrität (Integrity)
+      des Systems geformt 4, 9, 17.
+   ●​ Abgrenzung von verwandten Konstrukten:
+   ●​ Abgrenzung zwischen Einstellung und Vertrauen: Attitude stellt eine allgemeine
+      Bewertung der Technologie dar ("Ich finde die Nutzung gut/vorteilhaft") 3, 5, 10,
+      wohingegen Trust eine spezifische Beziehungs- und Risikoerwartung gegenüber
+      dem System beschreibt ("Ich verlasse mich auf die Ergebnisse ohne permanente
+      Nachprüfung") 4, 14, 15.
+   ●​ Abgrenzung von wahrgenommener Nützlichkeit (Perceived Usefulness / Response
+      Efficacy): Nützlichkeit misst rein die kognitive Leistungserwartung und
+      Effizienzsteigerung 3, 11, 18, während Einstellung und Vertrauen auch affektive
+      Bewertungen, Sicherheitsgefühl und Risikobereitschaft einschließen 4, 10, 14.
+   ●​ Bewertung der Eignung: Sehr stark geeignet. Einstellung und Vertrauen gehören
+      in der Akzeptanz- und Vertrauensforschung (UTAUT2, RAA, Mayer-Modell) zu den
+      stärksten direkten Prädiktoren der Nutzungsabsicht 3, 5, 19-21.
+
+
+3. Bereich 3: Wahrgenommene organisationale Unterstützung
+ 1.​   Ausdrückliche Kennzeichnung der unzureichenden Stützung: Das klassische
+       Gesamtkonstrukt "Perceived Organizational Support" wird in den ausgewählten
+       Quellen nicht als einheitliches, validiertes Messkonstrukt geführt.
+ 2.​   Aufschlüsselung nach den tatsächlichen Quellkonstrukten: Die in der Praxis
+       unter "organisationaler Unterstützung" zusammengefassten Aspekte zersplittern in
+       den theoretischen Modellen der Quellen in drei verschiedene, klar abgegrenzte
+       Konstrukte:
+ 3.​   Subjektive / Wahrgenommene Normen (Perceived Norms / Social Influence):
+       Erfasst die wahrgenommene Ermutigung und soziale Erwartung durch Kolleg:innen,
+       Führungskräfte oder das soziale Umfeld 3, 5, 10, 22.
+ 4.​   Wahrgenommene Verhaltenskontrolle / Erleichternde Bedingungen (Facilitating
+       Conditions / PBC): Misst, ob infrastrukturelle Ressourcen, Berechtigungen und
+       Schulungen vorhanden sind, um die Anwendung praktisch steuern und nutzen zu
+       können 7, 11, 23, 24.
+ 5.​   Integrität und Governance (Integrity / Data Privacy / Compliance): Beschreibt
+       das Vertrauen in die organisationalen Rahmenbedingungen, insbesondere
+       hinsichtlich Datenschutz (z. B. EU-DSGVO), Informationssicherheit und Richtlinien
+       zur Vermeidung der Weitergabe internen Wissens an Dritte 17, 25-27.
+ 6.​   Bewertung der Eignung: In der vorgeschlagenen Form nicht ausreichend
+       gestützt. Es wird empfohlen, diesen Bereich theoretisch nicht als einheitliche
+       Dimension zu messen, sondern explizit in Sozialen Einfluss / Normen 3, 5,
+       Ressourcen/Schulungsangebot (Facilitating Conditions) 7, 11, 24 und
+       Organisationale Compliance & Datenschutz (Integrität) 17, 26, 27 zu unterteilen.
+
+
+Zusammenfassendes Fazit zur Modellstruktur
+Vorgeschlagener Bereich,Theoretische Fundierung in den Quellen,Empfohlene Anpassung
+für die Messung
+1. KI-Kompetenz,"Stark gestützt (Ability, Perceived Ease of Use) 1, 5, 7","Fokus auf
+Erklärbarkeit, Ergebnisbeurteilung und Handhabung setzen 1, 9."
+2. Einstellung & Vertrauen,"Sehr stark gestützt (Attitude, Trust) 3, 5, 20","Einstellung
+(Nützlichkeit/Vorteil) und Vertrauen (Verlässlichkeit/Delegation) präzise trennen 4, 10, 15."
+3. Organisationale Unterstützung,"Nicht als Einzelkonstrukt gestützt 5, 7, 17","Aufteilen in
+Subjektive Normen 3, 5, Ressourcen/Schulungen 11, 24 und Datenschutz/Richtlinien 17,
+26."
+🤔 Sollen wir auf Basis dieser theoretischen Abgrenzungen nun die konkreten neun
+Fragebogenitems entwickeln und dabei die Aufteilung der organisatorischen Aspekte
+entsprechend anpassen?
+
