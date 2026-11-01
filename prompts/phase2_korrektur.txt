@@ -1,0 +1,16 @@
+Du hast zuvor drei Untersuchungsbereiche zur KI-Readiness von Mitarbeitenden theoriebezogen geprüft.
+
+Bitte führe JETZT die eigentliche Itemgenerierung durch. Antworte NICHT erneut nur mit einer theoretischen Konstruktexplikation und stelle keine Rückfrage, ob du Items erstellen sollst.
+
+Erzeuge genau neun NEUE deutschsprachige Selbstaussagen für Mitarbeitende. Nutze die wissenschaftlichen Quellen aus diesem Notebook. Jeweils drei Items sollen die Bereiche (1) wahrgenommene KI-Kompetenz, (2) Einstellung und Vertrauen sowie (3) wahrgenommene organisationale Bedingungen abdecken. Berücksichtige die theoretischen Einschränkungen aus Phase 1 ausdrücklich: Einstellung und Vertrauen müssen unterscheidbar bleiben; der Organisationsbereich kann unterschiedliche Facetten umfassen, sollte aber nicht als empirisch gesicherter einheitlicher Faktor bezeichnet werden.
+
+Jedes Item:
+- misst nur einen Sachverhalt;
+- vermeidet Doppelfragen, Synonymreihen und unnötige Negationen;
+- bezieht sich auf den beruflichen Kontext;
+- ist mit einer 7-stufigen Zustimmungsskala (1 = stimme überhaupt nicht zu; 7 = stimme voll und ganz zu) beantwortbar;
+- ist einem theoretischen Teilkonstrukt zugeordnet.
+
+Gib zuerst eine Tabelle mit den Spalten: ID, Bereich, theoretische Facette, exakter Itemwortlaut, konkrete Quelle/Quellstelle. Kennzeichne fehlende Quellendeckung statt sie zu erfinden.
+
+Gib anschließend in maximal fünf Sätzen an, welche Facetten mit nur neun Items unterrepräsentiert sind und warum das Ergebnis keine empirisch validierte Skala darstellt.
