@@ -1,0 +1,229 @@
+Eine kritische testtheoretische und inhaltsanalytische Prüfung der neun zuvor entwickelten
+Items zeigt, dass einige Aussagen psychometrische Mängel aufweisen – insbesondere
+Doppelläufigkeit (Double-barrelledness), tautologische Begriffsdopplungen oder
+unpräzise Bezugsobjekte.
+
+
+Systematische Einzelprüfung der Items
+
+Item 1 (KI-Kompetenz: Systemverständnis)
+ 1.​   Originalfassung: "Ich verstehe die grundlegenden Funktionsweisen von
+       KI-Anwendungen in meinem täglichen Arbeitsumfeld."
+ 2.​   Kritische Prüfung:
+ 3.​   Theoretische Passung: Sehr gut. Misst das kognitive Verständnis (Ability /
+       Explainability) der KI-Technologie 1, 2.
+ 4.​   Eindeutigkeit: Leicht unscharf durch den Plural "Funktionsweisen" in Kombination mit
+       dem breiten Begriff "Arbeitsumfeld".
+ 5.​   Verständlichkeit: Hoch und leicht verständlich.
+ 6.​   Semantische Redundanz: Keine wesentlichen Überschneidungen mit anderen Items.
+ 7.​   Formale Konsistenz: Sehr gut mit der 7-stufigen Zustimmungsskala vereinbar.
+ 8.​   Identifiziertes Problem: Leicht unkonkreter Bezugsrahmen.
+ 9.​   Überarbeitete Fassung: "Ich verstehe die grundlegende Funktionsweise der
+       KI-Anwendungen, die ich bei meiner Arbeit nutze."
+
+Item 2 (KI-Kompetenz: Ergebnisbeurteilung)
+ 1.​   Originalfassung: "Ich kann nachvollziehen und beurteilen, ob die von einer KI
+       generierten Arbeitsergebnisse korrekt und verlässlich sind."
+ 2.​   Kritische Prüfung:
+ 3.​   Theoretische Passung: Misst die kognitive Kontroll- und Beurteilungsfähigkeit von
+       KI-Ergebnissen (Ability) 1, 2.
+ 4.​   Eindeutigkeit: Starke Doppelläufigkeit (Double-barrelledness). Das Item koppelt
+       zwei Kognitionen (nachvollziehen Prozess vs. beurteilen Ergebnis) sowie zwei
+       Attribute (korrekt Inhalt vs. verlässlich Konstanz/Vertrauen). Ein Proband könnte ein
+       Ergebnis zwar beurteilen, ohne jedoch den Entstehungsprozess nachvollziehen zu
+       können.
+ 5.​   Verständlichkeit: Überfrachtet durch Doppelpaarungen.
+ 6.​   Semantische Redundanz: Der Begriff "verlässlich" überschneidet sich mit dem
+       Vertrauenskonstrukt (Item 5).
+ 7.​   Formale Konsistenz: Wegen der Mehrfachforderung schwer eindeutig zu bewerten.
+ 8.​   Identifiziertes Problem: Doppelläufige Formulierung bezüglich Verhaltensweisen
+       und Zieleigenschaften.
+ 9.​   Überarbeitete Fassung: "Ich kann beurteilen, ob die von einer KI generierten
+       Ergebnisse inhaltlich korrekt sind."
+
+Item 3 (KI-Kompetenz: Bedienkompetenz / Self-Efficacy)
+ 1.​   Originalfassung: "Ich traue mir zu, KI-gestützte Systeme für meine beruflichen
+       Aufgaben problemlos und eigenständig zu bedienen."
+ 2.​   Kritische Prüfung:
+ 3.​   Theoretische Passung: Entspricht der wahrgenommenen Bedienbarkeit (Perceived
+       Ease of Use / Self-Efficacy) 3-5.
+ 4.​   Eindeutigkeit: Doppelattribut. "Problemlos" (subjektive Leichtigkeit) und
+       "eigenständig" (Autonomie) messen zwei unterschiedliche Facetten. Eine Person
+       kann ein System eigenständig bedienen, dabei aber durchaus auf Probleme stoßen.
+ 5.​   Verständlichkeit: Sprachlich klar.
+ 6.​   Semantische Redundanz: Unauffällig.
+ 7.​   Formale Konsistenz: Sehr gut skalierbar.
+ 8.​   Identifiziertes Problem: Doppelattribut (problemlos vs. eigenständig).
+ 9.​   Überarbeitete Fassung: "Ich traue mir zu, KI-gestützte Systeme für meine
+       beruflichen Aufgaben eigenständig zu bedienen."
+
+Item 4 (Einstellung: Kognitiver Nutzen / Vorteil)
+ 1.​   Originalfassung: "Ich beurteile den Einsatz von KI-Technologien in meinem
+       Arbeitsalltag als vorteilhaft und gewinnbringend."
+ 2.​   Kritische Prüfung:
+ 3.​   Theoretische Passung: Misst die kognitive Einstellung zum Nutzen (Attitude /
+       Perceived Usefulness) 3, 6, 7.
+ 4.​   Eindeutigkeit: "Gewinnbringend" wird häufig rein ökonomisch/monetär interpretiert,
+       während "vorteilhaft" den allgemeinen Arbeitsnutzen beschreibt.
+ 5.​   Verständlichkeit: Gut.
+ 6.​   Semantische Redundanz: Leichte interne Tautologie.
+ 7.​   Formale Konsistenz: Indirekte Einleitung ("Ich beurteile ... als ...") ist methodisch
+       schwächer als eine direkte Feststellung ("Der Einsatz ist vorteilhaft...").
+ 8.​   Identifiziertes Problem: Indirekte Satzformulierung und leichte Begriffsdopplung.
+ 9.​   Überarbeitete Fassung: "Der Einsatz von KI-Anwendungen in meinem Arbeitsalltag
+       ist für meine Arbeit vorteilhaft."
+
+Item 5 (Vertrauen: Verlässlichkeit / Trust)
+ 1.​   Originalfassung: "Ich vertraue darauf, dass KI-Systeme Aufgaben zuverlässig
+       ausführen und verlässliche Ergebnisse liefern."
+ 2.​   Kritische Prüfung:
+ 3.​   Theoretische Passung: Zielt auf das relationale Vertrauen in die Systemqualität
+       (Trust) 1, 3, 8.
+ 4.​   Eindeutigkeit: Tautologie und Doppelläufigkeit. Die Verwendung von "zuverlässig"
+       und "verlässliche" im selben Satz stellt eine sprachliche Wortdopplung dar. Zudem
+       werden Prozess (Aufgaben ausführen) und Produkt (Ergebnisse liefern) vermengt.
+ 5.​   Verständlichkeit: Schwerfällig durch Wortwiederholung.
+ 6.​   Semantische Redundanz: Stark ausgeprägte interne Redundanz.
+ 7.​   Formale Konsistenz: Grundsätzlich skalierbar.
+ 8.​   Identifiziertes Problem: Tautologische Sprachdopplung und doppelter Reizfokus.
+ 9.​   Überarbeitete Fassung: "Ich vertraue darauf, dass die von mir genutzten
+       KI-Systeme ihre Aufgaben zuverlässig ausführen."
+
+Item 6 (Vertrauen / Einstellung: Affektives Wohlbefinden)
+ 1.​   Originalfassung: "Ich fühle mich wohl dabei, KI-Anwendungen als Unterstützung für
+       meine beruflichen Aufgaben und Entscheidungen zu nutzen."
+ 2.​   Kritische Prüfung:
+ 3.​   Theoretische Passung: Erfasst die affektive Komponente von Einstellung und
+       Vertrauen (Benevolence / Comfort) 1, 9.
+ 4.​   Eindeutigkeit: Doppelläufigkeit. "Aufgaben" (operative Ausführung) und
+       "Entscheidungen" (analytische/normative Abwägungen) sind zwei grundlegend
+       verschiedene KI-Einsatzbereiche. Beschäftigte können sich bei der
+       Aufgabenunterstützung wohlfühlen, bei Entscheidungen hingegen Unbehagen
+       empfinden.
+ 5.​   Verständlichkeit: Hoch.
+ 6.​   Semantische Redundanz: Saubere Abgrenzung zu kognitiver Nützlichkeit (Item 4).
+ 7.​   Formale Konsistenz: Passt hervorragend zur Skala.
+ 8.​   Identifiziertes Problem: Doppelläufige Anwendungsbereiche (Aufgaben vs.
+       Entscheidungen).
+ 9.​   Überarbeitete Fassung: "Ich fühle mich wohl dabei, KI-Anwendungen zur
+       Unterstützung meiner beruflichen Aufgaben zu nutzen."
+
+Item 7 (Organisationale Unterstützung: Ressourcen / Facilitating Conditions)
+ 1.​   Originalfassung: "Mein Unternehmen stellt mir die notwendigen Ressourcen,
+       Schulungen und Werkzeuge zur Verfügung, um KI effektiv in meiner Arbeit
+       einzusetzen."
+ 2.​   Kritische Prüfung:
+ 3.​   Theoretische Passung: Entspricht den förderlichen Rahmenbedingungen (Facilitating
+       Conditions / Perceived Behavioral Control) 4, 6, 10, 11.
+ 4.​   Eindeutigkeit: Kritische Dreifach-Doppelläufigkeit (Multi-barrelledness). Das Item
+       fragt zeitgleich "Ressourcen" (Zeit/Geld), "Schulungen" (Weiterbildung) und
+       "Werkzeuge" (Software/Hardware) ab. Sind Werkzeuge vorhanden, aber keine
+       Schulung erfolgt, lässt sich das Item nicht eindeutig beantworten.
+ 5.​   Verständlichkeit: Überfrachtet.
+ 6.​   Semantische Redundanz: Vermengt unterschiedliche organisationale
+       Unterstützungsebenen.
+ 7.​   Formale Konsistenz: Formal korrekt, scheitert jedoch an der Eindeutigkeit.
+ 8.​   Identifiziertes Problem: Dreifache Doppelläufigkeit.
+ 9.​   Überarbeitete Fassung: "Mein Unternehmen stellt mir die erforderlichen
+       technischen Werkzeuge zur Verfügung, um KI in meiner Arbeit einzusetzen."
+       (Hinweis: Weiterbildungsangebote sollten in einem separaten Item gemessen
+       werden).
+
+Item 8 (Organisationale Unterstützung: Subjektive Normen / Social Influence)
+ 1.​   Originalfassung: "Führungskräfte und Kolleg:innen in meiner Organisation
+       unterstützen und ermutigen den Einsatz von KI im Arbeitsalltag."
+ 2.​   Kritische Prüfung:
+ 3.​   Theoretische Passung: Misst die subjektive bzw. soziale Norm (Perceived Norms /
+       Social Influence) 4, 6, 9, 11.
+ 4.​   Eindeutigkeit: Mehrfache Doppelläufigkeit. Das Item kombiniert zwei
+       Akteursgruppen (Führungskräfte vs. Kolleg:innen) sowie zwei Verhaltensweisen
+       (unterstützen vs. ermutigen). Führungskräfte und Kolleg:innen vertreten in der Praxis
+       häufig unterschiedliche Positionen zur KI.
+ 5.​   Verständlichkeit: Gut.
+ 6.​   Semantische Redundanz: Akteure sind unzureichend getrennt.
+ 7.​   Formale Konsistenz: Sehr gut skalierbar.
+ 8.​   Identifiziertes Problem: Vermengung zweier unterschiedlicher Akteursgruppen
+       (Führungskräfte und Kolleg:innen).
+ 9.​   Überarbeitete Fassung: "In meiner Organisation ermutigen mich wichtige Personen
+       (z. B. Führungskräfte oder Kolleg:innen) dazu, KI im Arbeitsalltag einzusetzen."
+
+Item 9 (Organisationale Unterstützung: Integrität / Compliance & Governance)
+ 1.​   Originalfassung: "In meiner Organisation existieren klare Richtlinien und
+       Rahmenbedingungen (z. B. zum Datenschutz und zur Datensicherheit) für den
+       verantwortungsvollen Umgang mit KI."
+ 2.​   Kritische Prüfung:
+ 3.​   Theoretische Passung: Entspricht dem Bereich Integrität / Data Privacy /
+       Governance 1, 11, 12.
+ 4.​   Eindeutigkeit: "Richtlinien und Rahmenbedingungen" bildet eine Synonymdopplung.
+       Die Beispiele im Klammerzusatz machen das Item unnötig lang.
+ 5.​   Verständlichkeit: Durch den Klammerzusatz leicht verschachtelt.
+ 6.​   Semantische Redundanz: Leichte Wortredundanz (Richtlinien /
+       Rahmenbedingungen).
+ 7.​   Formale Konsistenz: Gut geeignet.
+ 8.​   Identifiziertes Problem: Synonymdopplung und klammergestützte Verschachtelung.
+ 9.​   Überarbeitete Fassung: "In meiner Organisation gibt es klare Richtlinien für den
+       datenschutzkonformen Umgang mit KI."
+
+
+Zusammenfassende Gegenüberstellung: Original vs. Überarbeitet
+Item,Originalfassung,Überarbeitete Fassung,Primäre Begründung der Anpassung
+1,Ich verstehe die grundlegenden Funktionsweisen von KI-Anwendungen in meinem
+täglichen Arbeitsumfeld.,"Ich verstehe die grundlegende Funktionsweise der
+KI-Anwendungen, die ich bei meiner Arbeit nutze.",Konkretisierung des Bezugsrahmens
+(eigene Nutzung statt breites Umfeld).
+2,"Ich kann nachvollziehen und beurteilen, ob die von einer KI generierten Arbeitsergebnisse
+korrekt und verlässlich sind.","Ich kann beurteilen, ob die von einer KI generierten
+Ergebnisse inhaltlich korrekt sind.","Entfernung der Doppelläufigkeit
+(nachvollziehen/beurteilen, korrekt/verlässlich)."
+3,"Ich traue mir zu, KI-gestützte Systeme für meine beruflichen Aufgaben problemlos und
+eigenständig zu bedienen.","Ich traue mir zu, KI-gestützte Systeme für meine beruflichen
+Aufgaben eigenständig zu bedienen.",Elimination des Doppelattributs (problemlos vs.
+eigenständig).
+4,Ich beurteile den Einsatz von KI-Technologien in meinem Arbeitsalltag als vorteilhaft und
+gewinnbringend.,Der Einsatz von KI-Anwendungen in meinem Arbeitsalltag ist für meine
+Arbeit vorteilhaft.,Umwandlung in eine direkte Feststellung; Streichung der
+Synonymdopplung.
+5,"Ich vertraue darauf, dass KI-Systeme Aufgaben zuverlässig ausführen und verlässliche
+Ergebnisse liefern.","Ich vertraue darauf, dass die von mir genutzten KI-Systeme ihre
+Aufgaben zuverlässig ausführen.",Behebung der tautologischen Wortwiederholung
+(zuverlässig / verlässlich).
+6,"Ich fühle mich wohl dabei, KI-Anwendungen als Unterstützung für meine beruflichen
+Aufgaben und Entscheidungen zu nutzen.","Ich fühle mich wohl dabei, KI-Anwendungen zur
+Unterstützung meiner beruflichen Aufgaben zu nutzen.",Behebung der Doppelläufigkeit
+(Aufgaben vs. Entscheidungen).
+7,"Mein Unternehmen stellt mir die notwendigen Ressourcen, Schulungen und Werkzeuge
+zur Verfügung, um KI effektiv in meiner Arbeit einzusetzen.","Mein Unternehmen stellt mir
+die erforderlichen technischen Werkzeuge zur Verfügung, um KI in meiner Arbeit
+einzusetzen.","Auflösung der Dreifach-Doppelläufigkeit (Ressourcen, Schulungen,
+Werkzeuge)."
+8,Führungskräfte und Kolleg:innen in meiner Organisation unterstützen und ermutigen den
+Einsatz von KI im Arbeitsalltag.,"In meiner Organisation ermutigen mich wichtige Personen
+(z. B. Führungskräfte oder Kolleg:innen) dazu, KI im Arbeitsalltag einzusetzen.",Entkopplung
+der getrennten Akteursgruppen (Führungskräfte vs. Kolleg:innen).
+9,In meiner Organisation existieren klare Richtlinien und Rahmenbedingungen (z. B. zum
+Datenschutz und zur Datensicherheit) für den verantwortungsvollen Umgang mit KI.,In
+meiner Organisation gibt es klare Richtlinien für den datenschutzkonformen Umgang mit
+KI.,Entschachtelung des Satzes und Fokussierung auf die Kernaussage.
+
+
+Wichtiger methodischer Hinweis zur empirischen Validität
+⚠️ Ausdrücklicher Vorbehalt: Die obige Analyse stellt eine rein inhaltsanalytische und
+testtheoretische Expertenbewertung dar. Eine empirische Validität (z. B.
+Konstruktvalidität, Kriteriumsvalidität) sowie psychometrische Gütekriterien können aus
+dieser Begutachtung nicht abgeleitet werden 13, 14.
+Um die tatsächliche Eignung der Items nachzuweisen, müssen in weiteren
+Forschungsphasen folgende quantitative Schritte durchgeführt werden:
+  1.​ Pretesting (Kognitives Debriefing) zur Prüfung der Verständlichkeit in der
+       Zielgruppe.
+  2.​ Exploratorische und Konfirmatorische Faktorenanalyse (EFA/KFA) bzw.
+       PLS-SEM zur Überprüfung der ein- bzw. mehrdimensionalen Faktorenstruktur und
+       Indikatorladungen 13, 14.
+  3.​ Prüfung der diskriminanten Validität (z. B. mittels HTMT-Kriterium < 0,85) sowie
+       der Konvergenzvalidität (AVE > 0,50) 14, 15.
+  4.​ Bestimmung der Skalenreliabilität (z. B. Cronbachs Alpha oder Composite
+
+💡
+       Reliability \\(\rho_A > 0,70\\)) 13, 14.
+    Möchtest du als Nächstes ein Untersuchungsdesign oder ein Pretest-Konzept planen,
+um die revidierten Items empirisch an einer Stichprobe von Mitarbeitenden zu testen?
+
