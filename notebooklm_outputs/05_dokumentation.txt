@@ -1,0 +1,203 @@
+Diese Dokumentation hält den theoretischen und methodischen Prozess zur Entwicklung
+des Fragebogens zur KI-Readiness von Mitarbeitenden auf Basis der ausgewählten
+Quellen und Notizen fest.
+
+
+1. Theoretische Fundierung und Konstruktexplikation
+Die theoretische Analyse zeigt, dass die drei ursprünglich angedachten Bereiche in den
+etablierten Messmodellen unterschiedlich stark fundiert sind 1, 2:
+
+Bereich 1: Wahrgenommene KI-Kompetenz
+   ●​ Definition: Dieser Bereich wird in den zugrundeliegenden Quellen primär über die
+      Konstrukte Ability (Fähigkeit/Erklärbarkeit) 3-5, Abilities (systembezogene
+      Fähigkeiten) 5-7 sowie Perceived Ease of Use (wahrgenommene Leichtigkeit der
+      Nutzung) 5, 8-10 operationalisiert. Er erfasst das kognitive Systemverständnis, die
+      Nachvollziehbarkeit der Ergebnisgenerierung sowie die Kompetenz zur
+      eigenständigen Bedienung und inhaltlichen Korrektheitsprüfung von KI-Ergebnissen
+      5.
+   ●​ Abgrenzung:
+   ●​ Wahrgenommene Verhaltenskontrolle (Perceived Behavioral Control / Self-Efficacy):
+      KI-Kompetenz misst das kognitive Verständnis und die Bedienfähigkeit, während die
+      Verhaltenskontrolle den wahrgenommenen Handlungsspielraum und die Autonomie
+      beschreibt, eine Nutzungsentscheidung frei zu treffen 5, 6, 9, 11.
+   ●​ Allgemeine Technologiebereitschaft / Tech-Affinität: Persönlichkeitsdispositionen wie
+      Innovativität im Technology Readiness Index (TRI 2.0) messen eine generelle
+      Neigung gegenüber neuen Technologien 5, 12, 13, während KI-Kompetenz
+      domänenspezifisch auf konkrete KI-Systeme ausgerichtet ist 5.
+   ●​ Theoretische Eignung: Hochgradig geeignet (fundiert u. a. im Vertrauensmodell
+      nach Mayer et al. 14 sowie im Reasoned Action Approach 5, 7, 15).
+
+Bereich 2: Einstellung und Vertrauen
+   ●​ Definition: Das Konstrukt vereint zwei zusammenhängende, aber theoretisch
+      getrennte Konzepte 16:
+   ●​ Einstellung (Attitude): Kognitive und affektive Gesamteinschätzung, ob der Einsatz
+      einer Technologie im Arbeitsalltag vorteilhaft und wertvoll ist 6, 16-18.
+   ●​ Vertrauen (Trust): Die Bereitschaft einer Person, sich gegenüber den Handlungen
+      des KI-Systems vulnerabel zu machen (z. B. Aufgaben ohne ständige Kontrolle zu
+      delegieren), basierend auf der Erwartung verlässlicher Aufgabenausführung 3, 8, 14,
+      16.
+   ●​ Abgrenzung:
+   ●​ Attitude vs. Trust: Attitude stellt eine allgemeine Bewertung dar ("Nutzung ist
+      vorteilhaft") 6, 16, wohingegen Trust eine spezifische Risiko- und
+      Verhaltenserwartung beschreibt ("Ich verlasse mich auf das System") 8, 14, 16.
+   ●​ Wahrgenommene Nützlichkeit (Perceived Usefulness / Response Efficacy):
+      Nützlichkeit misst rein die kognitive Leistungserwartung 8, 11, 16, 18, während
+      Einstellung und Vertrauen auch affektive Aspekte und Sicherheitsgefühl einschließen
+      16.
+   ●​ Theoretische Eignung: Sehr stark geeignet (direkte Prädiktoren der
+      Nutzungsabsicht in UTAUT2, RAA und Vertrauensmodellen 14-16, 19).
+
+Bereich 3: Organisationale Unterstützung (Kritische Differenzierung)
+ 1.​   Unzureichende Stützung als Gesamtkonstrukt: Ein einheitliches Gesamtkonstrukt
+       "Perceived Organizational Support" wird in den vorliegenden Messmodellen nicht
+       geführt 20.
+ 2.​   Theoretische Aufschlüsselung: In den Quellen verteilen sich organisatorische
+       Aspekte auf drei eigenständige Konstrukte 20:
+ 3.​   Subjektive / Wahrgenommene Normen (Perceived Norms / Social Influence): Erfasst
+       die soziale Erwartung und Ermutigung durch Führungskräfte oder Kolleg:innen 6, 17,
+       18, 20.
+ 4.​   Erleichternde Bedingungen / Verhaltenskontrolle (Facilitating Conditions / PBC):
+       Misst das Vorhandensein technischer Werkzeuge, Ressourcen und Schulungen 6, 9,
+       11, 20.
+ 5.​   Integrität & Governance (Integrity / Data Privacy): Beschreibt organisatorische
+       Rahmenbedingungen hinsichtlich Datenschutz und Richtlinien 3, 20-22.
+ 6.​   Theoretische Eignung: Als Einzelkonstrukt nicht ausreichend gestützt 20. Es
+       muss in der Itemgenerierung in die drei genannten Einzelkomponenten zerlegt
+       werden 20, 23.
+
+
+2. Dokumentation des Item-Überarbeitungsprozesses
+Die ursprünglichen Entwürfe wurden kritisch auf psychometrische Mängel geprüft und
+überarbeitet 24, 25:
+Item,Originalfassung 26-28,Überarbeitete Fassung 29,Primärer Änderungsgrund 29
+1,Ich verstehe die grundlegenden Funktionsweisen von KI-Anwendungen in meinem
+täglichen Arbeitsumfeld.,"Ich verstehe die grundlegende Funktionsweise der
+KI-Anwendungen, die ich bei meiner Arbeit nutze.",Unkonkreter Bezugsrahmen;
+Fokussierung auf die eigene konkrete Nutzung 30.
+2,"Ich kann nachvollziehen und beurteilen, ob die von einer KI generierten Arbeitsergebnisse
+korrekt und verlässlich sind.","Ich kann beurteilen, ob die von einer KI generierten
+Ergebnisse inhaltlich korrekt sind.",Behebung starker Doppelläufigkeit
+(nachvollziehen/beurteilen & korrekt/verlässlich) 31.
+3,"Ich traue mir zu, KI-gestützte Systeme für meine beruflichen Aufgaben problemlos und
+eigenständig zu bedienen.","Ich traue mir zu, KI-gestützte Systeme für meine beruflichen
+Aufgaben eigenständig zu bedienen.",Elimination des Doppelattributs (problemlos vs.
+eigenständig) 32.
+4,Ich beurteile den Einsatz von KI-Technologien in meinem Arbeitsalltag als vorteilhaft und
+gewinnbringend.,Der Einsatz von KI-Anwendungen in meinem Arbeitsalltag ist für meine
+Arbeit vorteilhaft.,Umwandlung in eine direkte Aussage; Entfernung der Synonymdopplung
+(vorteilhaft/gewinnbringend) 33.
+5,"Ich vertraue darauf, dass KI-Systeme Aufgaben zuverlässig ausführen und verlässliche
+Ergebnisse liefern.","Ich vertraue darauf, dass die von mir genutzten KI-Systeme ihre
+Aufgaben zuverlässig ausführen.",Behebung der tautologischen Wortdopplung
+(zuverlässig/verlässlich) und doppelter Reizfokus 34.
+6,"Ich fühle mich wohl dabei, KI-Anwendungen als Unterstützung für meine beruflichen
+Aufgaben und Entscheidungen zu nutzen.","Ich fühle mich wohl dabei, KI-Anwendungen zur
+Unterstützung meiner beruflichen Aufgaben zu nutzen.",Behebung der Doppelläufigkeit
+getrennter Anwendungsbereiche (Aufgaben vs. Entscheidungen) 35.
+7,"Mein Unternehmen stellt mir die notwendigen Ressourcen, Schulungen und Werkzeuge
+zur Verfügung, um KI effektiv in meiner Arbeit einzusetzen.","Mein Unternehmen stellt mir
+die erforderlichen technischen Werkzeuge zur Verfügung, um KI in meiner Arbeit
+einzusetzen.","Auflösung der Dreifach-Doppelläufigkeit (Ressourcen, Schulungen,
+Werkzeuge) 36."
+8,Führungskräfte und Kolleg:innen in meiner Organisation unterstützen und ermutigen den
+Einsatz von KI im Arbeitsalltag.,"In meiner Organisation ermutigen mich wichtige Personen
+(z. B. Führungskräfte oder Kolleg:innen) dazu, KI im Arbeitsalltag einzusetzen.",Entkopplung
+getrennter Akteursgruppen (Führungskräfte vs. Kolleg:innen) 37.
+9,In meiner Organisation existieren klare Richtlinien und Rahmenbedingungen (z. B. zum
+Datenschutz und zur Datensicherheit) für den verantwortungsvollen Umgang mit KI.,In
+meiner Organisation gibt es klare Richtlinien für den datenschutzkonformen Umgang mit
+KI.,Entschachtelung der Formulierung und Bereinigung der Synonymdopplung 38.
+
+
+3. Finale Items und Quellenbezüge
+Die finalen neun Items sind systematisch den theoretischen Konstrukten der Quellen
+zugeordnet:
+
+Dimension 1: KI-Kompetenz
+   ●​ "Ich verstehe die grundlegende Funktionsweise der KI-Anwendungen, die ich
+      bei meiner Arbeit nutze."
+   ●​ Theoretischer Konstruktbezug: Ability / Explainability (Systemverständnis) 3, 4, 30.
+   ●​ Quellen: Do Khac et al. 3, 4, Datensatz_v1 6, Note 4 30.
+   ●​ "Ich kann beurteilen, ob die von einer KI generierten Ergebnisse inhaltlich
+      korrekt sind."
+   ●​ Theoretischer Konstruktbezug: Ability / Performance Evaluation
+      (Ergebnisbeurteilung) 3, 4, 31.
+   ●​ Quellen: Do Khac et al. 3, 4, Datensatz_v1 6, Note 4 31.
+   ●​ "Ich traue mir zu, KI-gestützte Systeme für meine beruflichen Aufgaben
+      eigenständig zu bedienen."
+   ●​ Theoretischer Konstruktbezug: Perceived Ease of Use / Self-Efficacy
+      (Bedienkompetenz) 9, 10, 19, 32.
+   ●​ Quellen: Venkatesh et al. 9, 19, Wichmann et al. 10, 39, Datensatz_v1 8, Note 4 32.
+
+Dimension 2: Einstellung und Vertrauen
+   ●​ "Der Einsatz von KI-Anwendungen in meinem Arbeitsalltag ist für meine Arbeit
+      vorteilhaft."
+   ●​ Theoretischer Konstruktbezug: Attitude / Perceived Usefulness (Kognitive Einstellung
+      & Nutzen) 15, 18, 19, 33.
+   ●​ Quellen: Fishbein & Ajzen 15, 18, Venkatesh et al. 18, 19, Datensatz_v1 6, 8, Note 4
+      33.
+   ●​ "Ich vertraue darauf, dass die von mir genutzten KI-Systeme ihre Aufgaben
+      zuverlässig ausführen."
+   ●​ Theoretischer Konstruktbezug: Trust / Reliability (Systemverlässlichkeit) 3, 14, 34.
+   ●​ Quellen: Mayer et al. 14, Do Khac et al. 3, 14, Datensatz_v1 8, Note 4 34.
+   ●​ "Ich fühle mich wohl dabei, KI-Anwendungen zur Unterstützung meiner
+      beruflichen Aufgaben zu nutzen."
+   ●​ Theoretischer Konstruktbezug: Benevolence / Comfort / Affective Attitude (Affektives
+      Wohlbefinden) 3, 35, 40.
+   ●​ Quellen: Do Khac et al. 3, 40, Wichmann et al. 17, Datensatz_v1 6, Note 4 35.
+
+Dimension 3: Organisationale Unterstützung (Differenziert)
+   ●​ "Mein Unternehmen stellt mir die erforderlichen technischen Werkzeuge zur
+      Verfügung, um KI in meiner Arbeit einzusetzen."
+   ●​ Theoretischer Konstruktbezug: Facilitating Conditions / Perceived Behavioral Control
+      (Technische Infrastruktur) 9, 15, 19, 36.
+   ●​ Quellen: Venkatesh et al. 9, 19, Fishbein & Ajzen 9, 15, Note 4 36.
+   ●​ "In meiner Organisation ermutigen mich wichtige Personen (z. B.
+      Führungskräfte oder Kolleg:innen) dazu, KI im Arbeitsalltag einzusetzen."
+   ●​ Theoretischer Konstruktbezug: Perceived Norms / Social Influence (Subjektive
+      soziale Normen) 15, 18, 19, 37.
+   ●​ Quellen: Fishbein & Ajzen 15, 18, Venkatesh et al. 18, 19, Datensatz_v1 6, 8, Note 4
+      37.
+   ●​ "In meiner Organisation gibt es klare Richtlinien für den
+      datenschutzkonformen Umgang mit KI."
+   ●​ Theoretischer Konstruktbezug: Integrity / Data Privacy & Governance
+      (Organisationale Compliance) 3, 14, 21, 38.
+   ●​ Quellen: Mayer et al. 14, 21, Do Khac et al. 3, 21, Note 4 38.
+
+
+4. Geprüfte inhaltliche vs. unprüfbare psychometrische Eigenschaften
+
+Explizit geprüfte inhaltliche und qualitativen Anforderungen:
+ 1.​   Inhaltliche Validität & Augenscheinvalidität (Face Validity): Sicherstellung, dass
+       alle Zielkonstrukte theoretisch adäquat abgedeckt werden 29, 30.
+ 2.​   Konstrukteindeutigkeit (Ausschluss von Double-Barrelledness): Systematische
+       Trennung von Kognitionen, Prozessen/Ergebnissen, Akteursebenen und
+       Mehrfachattributen 31, 36, 37.
+ 3.​   Sprachliche Verständlichkeit & Eindeutigkeit: Bereinigung von Tautologien,
+       Synonymdopplungen und Entschachtelung verschachtelter Satzstrukturen 30, 34,
+       38.
+ 4.​   Formale Skalenkonsistenz: Vollständige Eignung aller Aussagen für eine 7-stufige
+       Bipolar-Zustimmungsskala (1 = stimme überhaupt nicht zu bis 7 = stimme voll und
+       ganz zu) 29, 30, 41.
+
+Ohne empirische Befragungsdaten NICHT prüfbare psychometrische
+Eigenschaften:
+⚠️ Die empirische Güte kann rein theoretisch nicht nachgewiesen werden 42:
+ 1.​   Konstruktvalidität & Faktorenstruktur: Die tatsächliche Zuordnung der Items zu
+       den Faktoren sowie die diskriminante Validität (z. B. via Heterotrait-Monotrait-Ratio
+       HTMT < 0,85 43-45) und Konvergenzvalidität (Average Variance Extracted AVE >
+       0,50 43-46) erfordern eine Feldbefragung und Auswertung mittels EFA/KFA oder
+       PLS-SEM 43, 45, 46.
+ 2.​ Skalenreliabilität & Messgenauigkeit: Indikatoren für interne Konsistenz wie
+       Cronbachs Alpha oder Composite Reliability (\\(\rho_A > 0,70\\)) setzen
+       empirische Antwortvarianzen voraus 43, 45-47.
+ 3.​ Itemmetrik & Verteilungscharakteristika: Itemschwierigkeit, Trennschärfe, Schiefe
+       und Kurtosis lassen sich ohne reale Stichprobendaten nicht bestimmen 42, 48.
+ 4.​ Kriteriums- & Prognostische Validität: Statistisch signifikante Zusammenhänge
+       (\\(R^2\\), Pfadkoeffizienten, \\(f^2\\)-Effektgrößen) zur Vorhersage tatsächlicher
+
+📊
+       Nutzungsabsichten lassen sich nur empirisch schätzen 42, 43, 49, 50.
+   Möchtest du als nächsten Schritt ein konkretes Dokumentations-PDF oder ein
+Pretest-Konzept inkl. Leitfaden für kognitive Debriefing-Interviews erstellen?
+
