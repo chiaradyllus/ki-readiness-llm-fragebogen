@@ -1,0 +1,49 @@
+Dieser Fragebogen zur Erfassung der KI-Readiness von Mitarbeitenden basiert auf den
+wissenschaftlichen Messmodellen und Skalen aus den bereitgestellten Quellen (u. a.
+Reasoned Action Approach, Technology Acceptance Model / UTAUT2 sowie Modellen zum
+Vertrauen in KI und organisationale Unterstützung) 1-5.
+
+
+Antwortskala
+Die Bewertung aller Aussagen erfolgt auf einer 7-stufigen Likert-Skala:
+   ●​ 1 = stimme überhaupt nicht zu
+   ●​ 2 = stimme nicht zu
+   ●​ 3 = stimme eher nicht zu
+   ●​ 4 = neutral / weder noch
+   ●​ 5 = stimme eher zu
+   ●​ 6 = stimme zu
+   ●​ 7 = stimme voll und ganz zu
+
+
+Fragebogen: KI-Readiness von Mitarbeitenden
+
+Dimension 1: KI-Kompetenz
+ 1.​   Ich verstehe die grundlegenden Funktionsweisen von KI-Anwendungen in
+       meinem täglichen Arbeitsumfeld 2.
+ 2.​   Ich kann nachvollziehen und beurteilen, ob die von einer KI generierten
+       Arbeitsergebnisse korrekt und verlässlich sind 2.
+ 3.​   Ich traue mir zu, KI-gestützte Systeme für meine beruflichen Aufgaben
+       problemlos und eigenständig zu bedienen 1, 6, 7.
+
+Dimension 2: Einstellung und Vertrauen
+ 1.​   Ich beurteile den Einsatz von KI-Technologien in meinem Arbeitsalltag als
+       vorteilhaft und gewinnbringend 1, 3, 4.
+ 2.​   Ich vertraue darauf, dass KI-Systeme Aufgaben zuverlässig ausführen und
+       verlässliche Ergebnisse liefern 2, 6, 8.
+ 3.​   Ich fühle mich wohl dabei, KI-Anwendungen als Unterstützung für meine
+       beruflichen Aufgaben und Entscheidungen zu nutzen 2, 3.
+
+Dimension 3: Organisationale Unterstützung
+ 1.​   Mein Unternehmen stellt mir die notwendigen Ressourcen, Schulungen und
+       Werkzeuge zur Verfügung, um KI effektiv in meiner Arbeit einzusetzen 5, 9-11.
+ 2.​ Führungskräfte und Kolleg:innen in meiner Organisation unterstützen und
+       ermutigen den Einsatz von KI im Arbeitsalltag 1, 3, 4.
+ 3.​ In meiner Organisation existieren klare Richtlinien und Rahmenbedingungen
+       (z. B. zum Datenschutz und zur Datensicherheit) für den verantwortungsvollen
+
+💡
+       Umgang mit KI 5, 8, 12, 13.
+   Möchtest du, dass ich diesen Fragebogen als gestaltetes Dokument (z. B. als
+PDF-Report) erstelle oder weitere Auswertungs- und Auswertungshinweise auf Basis der
+Quellen hinzufüge?
+
