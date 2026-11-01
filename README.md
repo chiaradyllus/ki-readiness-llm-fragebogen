@@ -31,11 +31,11 @@ Besonders einschlägig:
 
 ## NotebookLM-Ausgaben
 
-Unter `notebooklm_outputs/` sind die fünf exportierten Ausgaben dokumentiert. Sie wurden nicht nachträglich verändert.
+Unter `notebooklm_outputs/` sind die fünf exportierten NotebookLM-Ausgaben als **Texttranskripte der bereitgestellten PDFs** dokumentiert. Die Inhalte wurden aus den PDFs ausgelesen; das ursprüngliche Seitenlayout und anklickbare interne Quellenmarker können dabei verloren gehen. Die fünf Original-PDFs werden von der Verfasserin separat aufbewahrt.
 
 **Wichtiger Transparenzhinweis (Stand: erster Durchlauf):** Die als „Phase 2 – Itemgenerierung“ exportierte PDF enthält erneut die Konstruktexplikation aus Phase 1 und **keinen eigenständigen Itempool**. Die anschließende Itemprüfung bezieht sich erkennbar auf die neun Items der Ausgangsbedingung. Ein vollständiger unabhängiger A/B-Vergleich ist damit in diesem Durchlauf nicht möglich. Die Revisionen sind als iterative Überarbeitung eines Ausgangspools zu interpretieren. Der Dateiname ist keine Behauptung über die tatsächlich abgeschlossene Aktivität.
 
-Eine korrigierte Generierung kann mit `prompts/phase2_korrektur.txt` in einem getrennten Notebook mit identischem Quellenkorpus durchgeführt und anschließend mit Datum, Modell-/Werkzeugangaben und vollständigem Output ergänzt werden.
+Eine korrigierte Generierung kann mit `prompts/phase2_korrektur.txt` in einem getrennten Notebook mit identischem Quellenkorpus durchgeführt und anschließend mit Datum, Modell-/Werkzeugangaben und vollständigem Output ergänzt werden. Die PDF-Originale des ersten Durchlaufs sind zusätzlich im separat bereitgestellten Archiv verfügbar, aber nicht als Binärdateien in diesem Repository gespeichert.
 
 ## Bewertung
 
